@@ -78,14 +78,4 @@ This keeps the repository clean and focused on source files only.
 3. Push to the branch (`git push origin feature/YourFeature`)
 4. Open a Pull Request
 
-## License
 
-[Add your license information here]
-
-## Contact
-
-[Add contact information or author details here]
-
----
-
-**Note:** Make sure to use the same Unity version across all team members to avoid compatibility issues with project files and assemblies.
